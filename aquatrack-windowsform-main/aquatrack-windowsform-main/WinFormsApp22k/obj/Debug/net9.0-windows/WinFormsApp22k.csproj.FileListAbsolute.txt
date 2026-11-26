@@ -1,0 +1,37 @@
+C:\Users\Judy Custodio\source\repos\WinFormsApp22k\WinFormsApp22k\obj\Debug\net9.0-windows\WinFormsApp22k.Dashboard.resources
+C:\Users\Judy Custodio\source\repos\WinFormsApp22k\WinFormsApp22k\obj\Debug\net9.0-windows\WinFormsApp22k.Form1.resources
+C:\Users\Judy Custodio\source\repos\WinFormsApp22k\WinFormsApp22k\obj\Debug\net9.0-windows\WinFormsApp22k.Properties.Resources.resources
+C:\Users\Judy Custodio\source\repos\WinFormsApp22k\WinFormsApp22k\obj\Debug\net9.0-windows\WinFormsApp22k.csproj.GenerateResource.cache
+C:\Users\Judy Custodio\source\repos\WinFormsApp22k\WinFormsApp22k\obj\Debug\net9.0-windows\WinFormsApp22k.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Judy Custodio\source\repos\WinFormsApp22k\WinFormsApp22k\obj\Debug\net9.0-windows\WinFormsApp22k.AssemblyInfoInputs.cache
+C:\Users\Judy Custodio\source\repos\WinFormsApp22k\WinFormsApp22k\obj\Debug\net9.0-windows\WinFormsApp22k.AssemblyInfo.cs
+C:\Users\Judy Custodio\source\repos\WinFormsApp22k\WinFormsApp22k\obj\Debug\net9.0-windows\WinFormsApp22k.csproj.CoreCompileInputs.cache
+C:\Users\Judy Custodio\source\repos\WinFormsApp22k\WinFormsApp22k\bin\Debug\net9.0-windows\WinFormsApp22k.exe
+C:\Users\Judy Custodio\source\repos\WinFormsApp22k\WinFormsApp22k\bin\Debug\net9.0-windows\WinFormsApp22k.deps.json
+C:\Users\Judy Custodio\source\repos\WinFormsApp22k\WinFormsApp22k\bin\Debug\net9.0-windows\WinFormsApp22k.runtimeconfig.json
+C:\Users\Judy Custodio\source\repos\WinFormsApp22k\WinFormsApp22k\bin\Debug\net9.0-windows\WinFormsApp22k.dll
+C:\Users\Judy Custodio\source\repos\WinFormsApp22k\WinFormsApp22k\bin\Debug\net9.0-windows\WinFormsApp22k.pdb
+C:\Users\Judy Custodio\source\repos\WinFormsApp22k\WinFormsApp22k\obj\Debug\net9.0-windows\WinFormsApp22k.dll
+C:\Users\Judy Custodio\source\repos\WinFormsApp22k\WinFormsApp22k\obj\Debug\net9.0-windows\refint\WinFormsApp22k.dll
+C:\Users\Judy Custodio\source\repos\WinFormsApp22k\WinFormsApp22k\obj\Debug\net9.0-windows\WinFormsApp22k.pdb
+C:\Users\Judy Custodio\source\repos\WinFormsApp22k\WinFormsApp22k\obj\Debug\net9.0-windows\WinFormsApp22k.genruntimeconfig.cache
+C:\Users\Judy Custodio\source\repos\WinFormsApp22k\WinFormsApp22k\obj\Debug\net9.0-windows\ref\WinFormsApp22k.dll
+D:\lagayan ng code\aquatrack-windowsform-main\aquatrack-windowsform-main\WinFormsApp22k\bin\Debug\net9.0-windows\WinFormsApp22k.exe
+D:\lagayan ng code\aquatrack-windowsform-main\aquatrack-windowsform-main\WinFormsApp22k\bin\Debug\net9.0-windows\WinFormsApp22k.deps.json
+D:\lagayan ng code\aquatrack-windowsform-main\aquatrack-windowsform-main\WinFormsApp22k\bin\Debug\net9.0-windows\WinFormsApp22k.runtimeconfig.json
+D:\lagayan ng code\aquatrack-windowsform-main\aquatrack-windowsform-main\WinFormsApp22k\bin\Debug\net9.0-windows\WinFormsApp22k.dll
+D:\lagayan ng code\aquatrack-windowsform-main\aquatrack-windowsform-main\WinFormsApp22k\bin\Debug\net9.0-windows\WinFormsApp22k.pdb
+D:\lagayan ng code\aquatrack-windowsform-main\aquatrack-windowsform-main\WinFormsApp22k\obj\Debug\net9.0-windows\WinFormsApp22k.Dashboard.resources
+D:\lagayan ng code\aquatrack-windowsform-main\aquatrack-windowsform-main\WinFormsApp22k\obj\Debug\net9.0-windows\WinFormsApp22k.form1.resources
+D:\lagayan ng code\aquatrack-windowsform-main\aquatrack-windowsform-main\WinFormsApp22k\obj\Debug\net9.0-windows\WinFormsApp22k.Properties.Resources.resources
+D:\lagayan ng code\aquatrack-windowsform-main\aquatrack-windowsform-main\WinFormsApp22k\obj\Debug\net9.0-windows\WinFormsApp22k.Receipt.resources
+D:\lagayan ng code\aquatrack-windowsform-main\aquatrack-windowsform-main\WinFormsApp22k\obj\Debug\net9.0-windows\WinFormsApp22k.csproj.GenerateResource.cache
+D:\lagayan ng code\aquatrack-windowsform-main\aquatrack-windowsform-main\WinFormsApp22k\obj\Debug\net9.0-windows\WinFormsApp22k.GeneratedMSBuildEditorConfig.editorconfig
+D:\lagayan ng code\aquatrack-windowsform-main\aquatrack-windowsform-main\WinFormsApp22k\obj\Debug\net9.0-windows\WinFormsApp22k.AssemblyInfoInputs.cache
+D:\lagayan ng code\aquatrack-windowsform-main\aquatrack-windowsform-main\WinFormsApp22k\obj\Debug\net9.0-windows\WinFormsApp22k.AssemblyInfo.cs
+D:\lagayan ng code\aquatrack-windowsform-main\aquatrack-windowsform-main\WinFormsApp22k\obj\Debug\net9.0-windows\WinFormsApp22k.csproj.CoreCompileInputs.cache
+D:\lagayan ng code\aquatrack-windowsform-main\aquatrack-windowsform-main\WinFormsApp22k\obj\Debug\net9.0-windows\WinFormsApp22k.dll
+D:\lagayan ng code\aquatrack-windowsform-main\aquatrack-windowsform-main\WinFormsApp22k\obj\Debug\net9.0-windows\refint\WinFormsApp22k.dll
+D:\lagayan ng code\aquatrack-windowsform-main\aquatrack-windowsform-main\WinFormsApp22k\obj\Debug\net9.0-windows\WinFormsApp22k.pdb
+D:\lagayan ng code\aquatrack-windowsform-main\aquatrack-windowsform-main\WinFormsApp22k\obj\Debug\net9.0-windows\WinFormsApp22k.genruntimeconfig.cache
+D:\lagayan ng code\aquatrack-windowsform-main\aquatrack-windowsform-main\WinFormsApp22k\obj\Debug\net9.0-windows\ref\WinFormsApp22k.dll
